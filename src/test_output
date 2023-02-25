@@ -1,0 +1,9 @@
+In folder /src:
+1. make
+2. ./compiler test.c
+
+//output for test.c -> 2+3
+
+define i32 @function_name() {
+  ret i32 5
+}
